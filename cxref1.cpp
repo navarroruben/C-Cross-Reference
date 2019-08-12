@@ -1,9 +1,8 @@
-/* Name:  Ruben Navarro
-   FSUID: RN16G
-   DATE:  02/04/2019
-   COP4020
-   Project 2 
-*/
+/**********************/
+// Date: Febuary 04, 2019
+// Name: Ruben Navarro
+// JC-Cross Reference
+/**********************/
 
 %{
 #include <cstdio>
