@@ -1,7 +1,7 @@
 /**********************/
 // Date: Febuary 04, 2019
 // Name: Ruben Navarro
-// JC-Cross Reference
+// C-Cross Reference
 /**********************/
 
 %{
